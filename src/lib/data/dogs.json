@@ -1,0 +1,157 @@
+[
+  {
+    "uniqueid": "816",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "Chihuahua",
+    "age": "5",
+    "gender": "F",
+    "spayneuter": true,
+    "borough": "Brooklyn"
+  },
+  {
+    "uniqueid": "1658",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "German Shepherd",
+    "age": "8M",
+    "gender": "U",
+    "spayneuter": false,
+    "borough": "Bronx",
+    "zipcode": "10457"
+  },
+  {
+    "uniqueid": "4039",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "HAVANESE MIX",
+    "age": "1",
+    "gender": "M",
+    "spayneuter": true,
+    "borough": "Staten Island",
+    "zipcode": "10312"
+  },
+  {
+    "uniqueid": "2512",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "HUSKY",
+    "age": "10",
+    "gender": "M",
+    "spayneuter": true,
+    "borough": "Manhattan",
+    "zipcode": "10065"
+  },
+  {
+    "uniqueid": "815",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "Labrador Retriever",
+    "age": "10",
+    "gender": "M",
+    "spayneuter": true,
+    "borough": "Brooklyn"
+  },
+  {
+    "uniqueid": "3657",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "Pit Bull",
+    "gender": "U",
+    "spayneuter": false,
+    "borough": "Queens",
+    "zipcode": "11104"
+  },
+  {
+    "uniqueid": "817",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "Pug",
+    "gender": "U",
+    "spayneuter": false,
+    "borough": "Brooklyn",
+    "zipcode": "11222"
+  },
+  {
+    "uniqueid": "2668",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "Rottweiler",
+    "age": "6",
+    "gender": "M",
+    "spayneuter": true,
+    "borough": "Other",
+    "zipcode": "11803"
+  },
+  {
+    "uniqueid": "2513",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "Shih Tzu",
+    "gender": "U",
+    "spayneuter": false,
+    "borough": "Manhattan",
+    "zipcode": "10016"
+  },
+  {
+    "uniqueid": "1657",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "SMALL MIXED BREED",
+    "gender": "F",
+    "spayneuter": false,
+    "borough": "Bronx",
+    "zipcode": "10453"
+  },
+  {
+    "uniqueid": "1659",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "TIBETAN TERRIER MIX",
+    "age": "7",
+    "gender": "M",
+    "spayneuter": false,
+    "borough": "Bronx"
+  },
+  {
+    "uniqueid": "1660",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "UNKNOWN",
+    "gender": "U",
+    "spayneuter": false,
+    "borough": "Bronx"
+  },
+  {
+    "uniqueid": "2509",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "UNKNOWN",
+    "gender": "U",
+    "spayneuter": false,
+    "borough": "Manhattan",
+    "zipcode": "10128"
+  },
+  {
+    "uniqueid": "1655",
+    "dateofbite": "2024-12-31T00:00:00.000",
+    "species": "DOG",
+    "breed": "Yorkshire Terrier",
+    "age": "3",
+    "gender": "F",
+    "spayneuter": false,
+    "borough": "Bronx",
+    "zipcode": "10473"
+  },
+  {
+    "uniqueid": "811",
+    "dateofbite": "2024-12-30T00:00:00.000",
+    "species": "DOG",
+    "breed": "MEDIUM MIXED",
+    "age": "9",
+    "gender": "U",
+    "spayneuter": false,
+    "borough": "Brooklyn",
+    "zipcode": "11201"
+  }
+]
